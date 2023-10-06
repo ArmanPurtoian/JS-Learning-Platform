@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:chapter-01": "jest 01-ChapterName/01-ChapterName.test.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
